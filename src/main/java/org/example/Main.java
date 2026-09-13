@@ -6,7 +6,7 @@ public class Main {
        if (idade < 10){
            System.out.println("Ceiança");
        } else if (idade > 10 && idade <18) {
-           System.out.println("ADOLESCENTE");
+           System.out.println("ADOLESCENTE ");
 
        }
    }
